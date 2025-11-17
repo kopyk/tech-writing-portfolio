@@ -180,7 +180,14 @@
     </div>
   </div>
 
-
+  <div class="section">
+    <h2>Download Resume</h2>
+    <p style="text-align: center;">
+      <a href="Jordan_Yan_Resume.pdf" target="_blank" style="font-size: 1.1em; font-weight: 600;">
+        → Download PDF Resume
+      </a>
+    </p>
+  </div>
 </div>
 
 <footer>
