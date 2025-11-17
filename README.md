@@ -17,10 +17,10 @@
 
 Authored **public** Companion Guides for **DC Department of Health Care Finance (DHCF)**:
 
-| Guide | Version | Pages | Preview |
-|-------|--------|-------|--------|
-| **837I FFS Claims** | v1.3 (Jun 17, 2025) | 21 | ![837I Title](https://github.com/kopyk/gainwell-dhcf-companion-guides/raw/main/837I-title.png) |
-| **276/277 FFS Claims** | v1.1 (Feb 5, 2025) | 30 | ![276 Title](https://github.com/kopyk/gainwell-dhcf-companion-guides/raw/main/276-title.png) |
+| Guide | Version | Pages |
+|-------|--------|-------|
+| **837I FFS Claims** | v1.3 (Jun 17, 2025) | 21 |
+| **276/277 FFS Claims** | v1.1 (Feb 5, 2025) | 30 |
 
 [View Full Guides + Interactive 276/277 →](https://github.com/kopyk/gainwell-dhcf-companion-guides)
 
