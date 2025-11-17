@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jordan 
+#Jordan 
 
 **Technical Writer**  
 
@@ -8,7 +8,8 @@
 
 ---
 <div align="left">
-## Pinned Projects
+  
+##Pinned Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
