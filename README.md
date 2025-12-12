@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jordan 
+# Jordan Y
 
 **Technical Writer**  
 
